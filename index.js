@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function preserveInt(n) {
-  retutn parseFloat(n);
+  return parseFloat(n);
 }
